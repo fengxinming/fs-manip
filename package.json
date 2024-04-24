@@ -13,8 +13,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "crypto",
-    "aes"
+    "fs"
   ],
   "author": "Jesse Feng <fxm0016@126.com>",
   "license": "MIT",
